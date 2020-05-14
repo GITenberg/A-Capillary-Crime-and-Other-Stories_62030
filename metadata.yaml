@@ -1,0 +1,33 @@
+_repo: A-Capillary-Crime-and-Other-Stories_62030
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Millet, Francis Davis
+    aliases:
+    - Millet, F. D.
+    - Millet, Frank D.
+    birthdate: 1846
+    deathdate: 1912
+    gutenberg_agent_id: '5851'
+    url: http://www.gutenberg.org/2009/agents/5851
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Davis_Millet
+description: ''
+gutenberg_issued: '2020-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62030'
+  lccn: '07031117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'Artists -- Fiction'
+- GITenberg
+tableOfContents: A capillary crime -- A faded scapular -- Yatil -- Tedesco's Rubina
+  -- Medusa's head -- The fourth waits -- The bush.
+title: A Capillary Crime, and Other Stories
+url: http://www.gutenberg.org/ebooks/62030
